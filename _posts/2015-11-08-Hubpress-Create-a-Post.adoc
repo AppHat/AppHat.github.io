@@ -1,0 +1,9 @@
+= Hubpress Create a Post
+
+:hp-tags: Hubpress
+
+# Syntax
+
+link:http://asciidoctor.org/docs/asciidoc-writers-guide/[AsciiDoc Syntax]
+
+link:https://github.com/HubPress/hubpress.io#managing-posts[Hubpress Additional Syntax]
