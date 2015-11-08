@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "AppHat",
-    "repositoryName": "AppHat.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"AppHat","repositoryName":"AppHat.github.io","branch":"master"},"site":{"title":"Developer Blog","description":"Keep down in writing developer problems and solutions","url":"https://AppHat.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//AppHat.github.io/themes/Casper"}}
