@@ -2,8 +2,7 @@
 
 :hp-tags: Hubpress
 
-# Syntax
+This article is about the syntax which is used to write posts via HubPress.
+HubPress's syntax is based on link:http://asciidoctor.org/docs/asciidoc-writers-guide/[AsciiDoc] "a plain text documentation syntax and processor". Additionaly HubPress has extended this syntax: link:https://github.com/HubPress/hubpress.io#managing-posts[Hubpress Additional Syntax]
 
-link:http://asciidoctor.org/docs/asciidoc-writers-guide/[AsciiDoc Syntax]
-
-link:https://github.com/HubPress/hubpress.io#managing-posts[Hubpress Additional Syntax]
+Also HubPress has an recommanded writing guide here: link:https://github.com/HubPress/hubpress.io/wiki/Recommended-Practices[Recommended-Practices]
