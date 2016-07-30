@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Developer Blog]]></title><description><![CDATA[Keep down in writing developer problems and solutions]]></description><link>https://AppHat.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 30 Jul 2016 09:15:18 GMT</lastBuildDate><atom:link href="https://AppHat.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[How to create a HubPress post]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Developer Blog]]></title><description><![CDATA[Keep down in writing developer problems and solutions]]></description><link>https://AppHat.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 30 Jul 2016 09:18:59 GMT</lastBuildDate><atom:link href="https://AppHat.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[GitLab CI & Docker]]></title><description><![CDATA[<div class="sect1">
+<h2 id="_problem_description">Problem description</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Using Docker for GitLab&#8217;s CI-Runners on Windows</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_try_and_failing_hard">Try and failing hard!</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>docker run -d --name gitlab-runner --restart always -v /srv/gitlab-runner/config:/etc/gitlab-runner gitlab/gitlab-runner:latest
+docker run -d --name gitlab-runner --restart always -v D:/Coden/Workspaces/Docker/gitlab-runner/config:/etc/gitlab-runner gitlab/gitlab-runner:latest</p>
+</div>
+<div class="paragraph">
+<p>docker run -d --name gitlab-runner --restart always -v /User/&lt;User&gt;/gitlab-runner/config:/etc/gitlab-runner gitlab/gitlab-runner:latest</p>
+</div>
+<div class="paragraph">
+<p>docker run -d --name gitlab-runner-config -v /etc/gitlab-runner busybox:latest /bin/true
+docker run -d --name gitlab-runner --restart always --volumes-from gitlab-runner-config gitlab/gitlab-runner:latest</p>
+</div>
+</div>
+</div>]]></description><link>https://AppHat.github.io/2016/07/30/Git-Lab-CI-Docker.html</link><guid isPermaLink="true">https://AppHat.github.io/2016/07/30/Git-Lab-CI-Docker.html</guid><category><![CDATA[GitLab]]></category><category><![CDATA[ CI]]></category><category><![CDATA[ Docker]]></category><dc:creator><![CDATA[Andreas Gehle]]></dc:creator><pubDate>Sat, 30 Jul 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[How to create a HubPress post]]></title><description><![CDATA[<div class="paragraph">
 <p>This article is about the syntax which is used to write posts via HubPress.
 HubPress&#8217;s syntax is based on <a href="http://asciidoctor.org/docs/asciidoc-writers-guide/">AsciiDoc</a> "a plain text documentation syntax and processor". Additionaly HubPress has extended this syntax: <a href="https://github.com/HubPress/hubpress.io#managing-posts">Hubpress Additional Syntax</a></p>
 </div>
