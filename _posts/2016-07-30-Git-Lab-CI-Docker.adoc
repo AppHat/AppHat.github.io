@@ -1,0 +1,19 @@
+= GitLab CI & Docker
+
+:hp-tags: GitLab, CI, Docker
+
+== Problem description
+
+Using Docker for GitLab's CI-Runners on Windows
+
+== Try and failing hard!
+
+docker run -d --name gitlab-runner --restart always -v /srv/gitlab-runner/config:/etc/gitlab-runner gitlab/gitlab-runner:latest
+docker run -d --name gitlab-runner --restart always -v D:/Coden/Workspaces/Docker/gitlab-runner/config:/etc/gitlab-runner gitlab/gitlab-runner:latest
+
+docker run -d --name gitlab-runner --restart always -v /User/<User>/gitlab-runner/config:/etc/gitlab-runner gitlab/gitlab-runner:latest
+
+
+
+docker run -d --name gitlab-runner-config -v /etc/gitlab-runner busybox:latest /bin/true
+docker run -d --name gitlab-runner --restart always --volumes-from gitlab-runner-config gitlab/gitlab-runner:latest
