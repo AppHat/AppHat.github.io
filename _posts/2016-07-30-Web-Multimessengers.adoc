@@ -1,0 +1,28 @@
+= Web-Multimessengers
+
+:hp-tags: Web, Messenger, App, Android, Windows, Unix
+
+Here are some new multi-messengers which support WhatsApp, Facebook Messenger, Telegram, Skype, Hangout, Slack, Inbox, GMail, Steam and more.
+
+== 1. Rambox
+Open-Source alternative link: link:https://github.com/saenzramiro/rambox[] +
+Windows, Mac and Linux-Client
+
+link:http://rambox.pro[]
+
+== 2. Franz
+
+Windows, Mac and Linux-Client (from Vienna)
+
+link:http://meetfranz.com[]
+
+== 3. All-in-One Messenger
+
+Chrome-Extention (from Hamburg)
+
+link:https://allinone.im[]
+
+== 4. Harvester Messenger
+Windows App; Currently 0,99€; On promotions free
+
+link:https://www.microsoft.com/de-de/store/p/harvester-messenger/9nblggh5h171[]
