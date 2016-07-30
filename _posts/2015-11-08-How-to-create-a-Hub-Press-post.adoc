@@ -1,4 +1,4 @@
-= Hubpress Create a Post
+= How to create a HubPress post
 
 :hp-tags: Hubpress
 
