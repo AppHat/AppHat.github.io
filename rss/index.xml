@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Developer Blog]]></title><description><![CDATA[Keep down in writing developer problems and solutions]]></description><link>https://AppHat.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 30 Jul 2016 22:33:37 GMT</lastBuildDate><atom:link href="https://AppHat.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Web-Multimessengers]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Developer Blog]]></title><description><![CDATA[Keep down in writing developer problems and solutions]]></description><link>https://AppHat.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 31 Jul 2016 08:44:58 GMT</lastBuildDate><atom:link href="https://AppHat.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Web-Multimessengers]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Here are some new multi-messengers which support WhatsApp, Facebook Messenger, Telegram, Skype, Hangout, Slack, Inbox, GMail, Steam and more.</p>
@@ -10,7 +10,7 @@
 <div class="sectionbody">
 <div class="paragraph">
 <p>Open-Source alternative link: <a href="https://github.com/saenzramiro/rambox" class="bare">https://github.com/saenzramiro/rambox</a><br>
-Windows, Mac and Linux-Client</p>
+Windows, Mac and Linux-Client (from Argentina/ OpenSource)</p>
 </div>
 <div class="paragraph">
 <p><a href="http://rambox.pro" class="bare">http://rambox.pro</a></p>
