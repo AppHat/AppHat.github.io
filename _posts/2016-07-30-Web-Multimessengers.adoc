@@ -6,7 +6,7 @@ Here are some new multi-messengers which support WhatsApp, Facebook Messenger, T
 
 == 1. Rambox
 Open-Source alternative link: link:https://github.com/saenzramiro/rambox[] +
-Windows, Mac and Linux-Client
+Windows, Mac and Linux-Client (from Argentina/ OpenSource)
 
 link:http://rambox.pro[]
 
