@@ -1,0 +1,7 @@
+= Android Update Protocol
+
+== LG G Flex 2 H955
+
+http://forum.xda-developers.com/g-flex2/general/update-to-marshmallow-t3399953
+
+31.08.2016 - No Andoird MM via LG Suite or OTA
