@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Developer Blog]]></title><description><![CDATA[Keep down in writing developer problems and solutions]]></description><link>https://AppHat.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 31 Jul 2016 08:44:58 GMT</lastBuildDate><atom:link href="https://AppHat.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Web-Multimessengers]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Developer Blog]]></title><description><![CDATA[Keep down in writing developer problems and solutions]]></description><link>https://AppHat.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 31 Aug 2016 13:02:52 GMT</lastBuildDate><atom:link href="https://AppHat.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Android Update Protocol]]></title><description><![CDATA[<div class="sect1">
+<h2 id="_lg_g_flex_2_h955">LG G Flex 2 H955</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>31.08.2016</p>
+<div class="ulist">
+<ul>
+<li>
+<p>No Andoird MM via LG Suite or OTA</p>
+</li>
+<li>
+<p>Latest Update via XDA <a href="http://forum.xda-developers.com/g-flex2/general/update-to-marshmallow-t3399953" class="bare">http://forum.xda-developers.com/g-flex2/general/update-to-marshmallow-t3399953</a></p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>https://AppHat.github.io/2016/08/31/Android-Update-Protocol.html</link><guid isPermaLink="true">https://AppHat.github.io/2016/08/31/Android-Update-Protocol.html</guid><category><![CDATA[android]]></category><category><![CDATA[ flex]]></category><category><![CDATA[ update]]></category><category><![CDATA[ lg]]></category><dc:creator><![CDATA[Andreas Gehle]]></dc:creator><pubDate>Wed, 31 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Web-Multimessengers]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Here are some new multi-messengers which support WhatsApp, Facebook Messenger, Telegram, Skype, Hangout, Slack, Inbox, GMail, Steam and more.</p>
